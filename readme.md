@@ -26,7 +26,7 @@ Or from the terminal:
 code --install-extension vscode-dev-watch-1.0.0.vsix
 ```
 
-## Usage
+## 🛠️ Usage
 
 - Open your project in VS Code
 - Press Ctrl+Shift+P (or Cmd+Shift+P on macOS)
